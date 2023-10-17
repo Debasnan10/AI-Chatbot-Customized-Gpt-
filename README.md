@@ -27,7 +27,7 @@ The block diagram illustrates the key components and interactions within the Per
 
 1. Clone this repository.
 2. Install dependencies: `pip install -r requirements.txt`.
-3. Run the application: `python main.py`.
+3. Run the application: `python assistant.py`.
 4. Access the bot through the provided user interface and start interacting.
 
 ## License
