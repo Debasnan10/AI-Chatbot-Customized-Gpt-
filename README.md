@@ -1,4 +1,4 @@
-# AI-Chatbot-Customized-Gpt
+# AI-Chatbot-Customized-Gpt (Personal Assistant Bot)
 ## Overview
 
 The Personal Assistant Bot is an AI-powered application designed to serve as a virtual assistant. It uses NLP and ML techniques to interact with users, remember preferences, provide suggestions, and offer information on various topics.
@@ -13,21 +13,8 @@ The Personal Assistant Bot is an AI-powered application designed to serve as a v
 
 ## Block Diagram
 
-Block Diagram
+![image](https://github.com/Debasnan10/AI-Chatbot-Customized-Gpt-/assets/48676817/ef18afef-1437-436a-bc38-ffde9890f119)
 
-+------------------+    +---------------------+   +---------------+
-| User Interaction | -->|     NLP Processor   |-->| Knowledge Base|
-+------------------+    +---------------------+   +---------------+
-                         |
-                         v
-                   +------------------+
-                   | ML Recommender  |
-                   +------------------+
-                         |
-                         v
-                   +------------------+
-                   | External APIs   |
-                   +------------------+
 
 The block diagram illustrates the key components and interactions within the Personal Assistant Bot:
 - User Interaction
