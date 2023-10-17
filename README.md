@@ -13,6 +13,22 @@ The Personal Assistant Bot is an AI-powered application designed to serve as a v
 
 ## Block Diagram
 
+Block Diagram
+
++------------------+    +---------------------+   +---------------+
+| User Interaction | -->|     NLP Processor   |-->| Knowledge Base|
++------------------+    +---------------------+   +---------------+
+                         |
+                         v
+                   +------------------+
+                   | ML Recommender  |
+                   +------------------+
+                         |
+                         v
+                   +------------------+
+                   | External APIs   |
+                   +------------------+
+
 The block diagram illustrates the key components and interactions within the Personal Assistant Bot:
 - User Interaction
 - NLP Processor
@@ -26,10 +42,6 @@ The block diagram illustrates the key components and interactions within the Per
 2. Install dependencies: `pip install -r requirements.txt`.
 3. Run the application: `python main.py`.
 4. Access the bot through the provided user interface and start interacting.
-
-## Contributing
-
-We welcome contributions from the community! Please follow the [Contributing Guidelines](CONTRIBUTING.md).
 
 ## License
 
